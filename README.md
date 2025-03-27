@@ -42,7 +42,5 @@ El objetivo que tenemos es conseguir diseñar un techo solar que estara formado 
 | Pulsador | MPB01-1B00-S-D  | [Datasheet](https://www.mouser.es/datasheet/2/670/mpb01-2474754.pdf) | Mouser Electronics | 2 |
 | Conector | ICSP  | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/30277d.pdf) | DigiKey | 2 |
 
-## Funcionalidades
-
 ## Historial de canvis | Data | Autor | Descripció |
 |------|------|--------|------------| | 2025-03-14 | Nom | `main` | Creació del projecte |
