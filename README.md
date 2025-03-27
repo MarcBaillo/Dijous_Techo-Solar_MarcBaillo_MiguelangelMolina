@@ -23,7 +23,7 @@ El objetivo que tenemos es conseguir diseñar un techo solar que estara formado 
 
 ## Diagrama de bloque
 
-![Diagrama de Bloque](Diagrama de Bloque actualizado.png)
+![Diagrama de Bloque](Diagrama_de_Bloque_actualizado.png)
 
 
 ## Tabla de componentes
