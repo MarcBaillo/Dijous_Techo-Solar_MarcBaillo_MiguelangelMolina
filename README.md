@@ -1,4 +1,4 @@
-View this project on [CADLAB.io](https://cadlab.io/project/28991). 
+
 
 ## Dijous_Techo-Solar_MarcBaillo_MiguelangelMolina
 Proyecto de Herramientas de Diseño del Techo Solar (Jueves).
@@ -21,7 +21,7 @@ El objetivo que tenemos es conseguir diseñar un techo solar que estara formado 
 
 ## Diagrama de bloque
 
-[Diagrama de bloque](Diagrama_de_Bloque.png)
+![Diagrama de Bloque](Diagrama_de_Bloque.png)
 
 
 ## Tabla de componentes
