@@ -24,7 +24,7 @@ El objetivo que tenemos es conseguir diseñar un techo solar que estara formado 
 
 
 ## Tabla de componentes
-| Descripción        | Manufacturer Number     | Descripción | Datasheet          | Proveidor        | Unidades       | Precio Unitario + Impuestos |
+| Descripción        | Manufacturer Number          | Descripción | Datasheet          | Proveidor        | Unidades       | Precio Unitario |
 |:----------------:|:-------------------------:|:----------------:|:---------------:|:--------------:|:--------------:|:--------------:|
 | Microcontrolador | PIC18LF2580-I/SO | Procesador que actúa como cerebro de control del circuito | [Datasheet](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/39637d.pdf) | DigiKey | 1 | 9,2€ |
 | Regulador de tensión | LM1117DT-3.3/NOPB  | Dispositivo que hace que la tensión de entrada pase de 12V a los que necesita el microcontrolador (3,3V) | [Datasheet](https://www.ti.com/lit/ds/symlink/lm1117.pdf?ts=1710745623625&ref_url=https%253A%252F%252Fwww.mouser.se%252F) | Mouser Electronics | 1 | 1,61€ |
