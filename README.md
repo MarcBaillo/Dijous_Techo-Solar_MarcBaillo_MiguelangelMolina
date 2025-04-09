@@ -55,5 +55,8 @@ El objetivo que tenemos es conseguir diseñar un techo solar que estara formado 
 | 02-04-2025 | Marc | Simulación ADC hecha |
 | 03-04-2025 | Miguel y Marc | Modificación presentación proyecto (Sesión 3) |
 | 03-04-2025 | Miguel | Corrección errores Layout y Esquematicos |
+| 09-04-2025 | Marc | Modificación Layout (acabar de poner vista 3D y packages bien) |
+| 09-04-2025 | Marc |  Modificación presentación proyecto (Sesión 4)  |
+
 
 
