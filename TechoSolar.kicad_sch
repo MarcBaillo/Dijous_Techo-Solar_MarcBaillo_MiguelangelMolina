@@ -14348,7 +14348,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "User_Library:SOIC127P599X175-8N"
 			(at 228.6 44.45 0)
 			(effects
 				(font
