@@ -57,6 +57,7 @@ El objetivo que tenemos es conseguir diseñar un techo solar que estara formado 
 | 03-04-2025 | Miguel | Corrección errores Layout y Esquematicos |
 | 09-04-2025 | Marc | Modificación Layout (acabar de poner vista 3D y packages bien) |
 | 09-04-2025 | Marc |  Modificación presentación proyecto (Sesión 4)  |
+| 10-04-2025 | Marc y Miguel |  Modificación presentación proyecto (Sesión 4)  |
 
 
 
