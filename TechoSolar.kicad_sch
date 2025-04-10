@@ -5918,7 +5918,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "V1_2703"
+	(text "V2_03/04"
 		(exclude_from_sim no)
 		(at 267.462 181.102 0)
 		(effects
